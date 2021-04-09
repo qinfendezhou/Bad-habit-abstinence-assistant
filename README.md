@@ -1,1 +1,4 @@
 # Bad-habit-abstinence-assistant
+"Bad habit abstinence assistant" is an auxiliary tool app that helps users to get rid of bad habits. In this tool, there are two common bad habits that are preset, such as smoking and going to bed late. The user edits the bad habits prompt bar to remind themselves of the disadvantages of doing so. It also has a clock-in function, with a good custom function, you can set a goal for yourself and complete the clock-in every day. At the same time, it is equipped with a high-performance timer, which can be used for running and other sports.
+For more comments and suggestions, please contact us: "Bad habit abstinence assistant" official email: shizuoru@icloud.com
+![Image text](https://github.com/qinfendezhou/Bad-habit-abstinence-assistant/blob/main/1/%E5%BA%94%E7%94%A8%E5%95%86%E5%9F%8E--1242X2208-0.png)
